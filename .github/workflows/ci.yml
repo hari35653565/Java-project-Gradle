@@ -33,6 +33,6 @@ jobs:
       with:
         image: hari356535/exmple:latest
         registry: docker.io
-        username: ${{ secrets.hari356535 }}
-        password: ${{ secrets.vgyt65116 }}
+        username: ${{ secrets.username }}
+        password: ${{ secrets.password }}
          
